@@ -1,1 +1,1 @@
-# operating_system
+# This is a git repo for Operating System Project.
